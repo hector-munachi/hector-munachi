@@ -1,4 +1,4 @@
-# Welcome, I am Hector
+## Welcome, I am Hector
 
 
 
@@ -8,6 +8,6 @@
 
 💬 Ask me about - Anything
 
-📫 How to reach me - **@avestereo** 
+📫 How to reach me - [@avestereo](https://www.twitter.com/avestereo)
 
 
