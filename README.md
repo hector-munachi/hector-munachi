@@ -1,5 +1,5 @@
 # Welcome, I am Hector
-<hr/>
+
 
 
 🧐I’m currently learning - React
@@ -8,6 +8,6 @@
 
 💬 Ask me about - Anything
 
-📫 How to reach me - **avestereo** 
+📫 How to reach me - **@avestereo** 
 
 
