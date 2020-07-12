@@ -1,5 +1,8 @@
 ## Welcome, I am Hector
-![FAFFB469-6692-40FF-B87D-C3FA7E535EDA](https://user-images.githubusercontent.com/58500221/87236183-af08ce00-c3dd-11ea-831d-71749b0753e6.JPG)
+
+![Img](https://user-images.githubusercontent.com/58500221/87236255-bed4e200-c3de-11ea-968c-68cf64a2479a.JPG)
+
+
 
 
 🧐I’m currently learning - React
