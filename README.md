@@ -9,6 +9,6 @@ ___
 
 💬 Ask me about - Anything
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding) [@avestereo](https://www.twitter.com/avestereo)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)[@avestereo](https://www.twitter.com/avestereo)
 
 
