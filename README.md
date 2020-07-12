@@ -9,6 +9,6 @@ ___
 
 💬 Ask me about - Anything
 
-📫 How to reach me - [@avestereo](https://www.twitter.com/avestereo)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)[@avestereo](https://www.twitter.com/avestereo)
 
 
