@@ -9,8 +9,7 @@ ___
 
 💬 Ask me about - Anything....
 
-Follow me on![twitter (2)](https://user-images.githubusercontent.com/58500221/87242372-e69a6900-c423-11ea-842d-65edfdc00593.png)
-[@avestereo](https://www.twitter.com/avestereo)
+Follow me on ![twitter](https://user-images.githubusercontent.com/58500221/87242399-39742080-c424-11ea-88ca-94ad1498456d.png)[@avestereo](https://www.twitter.com/avestereo)
 
 
 
