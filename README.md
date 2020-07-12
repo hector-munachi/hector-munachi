@@ -1,7 +1,5 @@
 ## Welcome, I am Hector
-
-![Img](https://user-images.githubusercontent.com/58500221/87236255-bed4e200-c3de-11ea-968c-68cf64a2479a.JPG)
-
+![Img](https://user-images.githubusercontent.com/58500221/87236303-6520e780-c3df-11ea-9959-9a7c8fc766d1.JPG)
 
 
 
