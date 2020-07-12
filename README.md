@@ -9,7 +9,7 @@ ___
 
 💬 Ask me about - Anything
 
-![twitter](https://user-images.githubusercontent.com/58500221/87242177-4db71e00-c422-11ea-8248-6b917997f6b5.png)
-[@avestereo](https://www.twitter.com/avestereo)
+[@avestereo](https://www.twitter.com/avestereo)![twitter](https://user-images.githubusercontent.com/58500221/87242177-4db71e00-c422-11ea-8248-6b917997f6b5.png)
+
 
 
