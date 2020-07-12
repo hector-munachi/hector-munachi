@@ -3,7 +3,7 @@
 ___
 🧐I’m currently learning - React
 
-🤝I’m looking to collaborate on - NodeJs, Express, MongoDB & Backend logic.
+🤝I’m looking to collaborate on - NodeJs, Express, MongoDB and any stuff on Back-end.
 
 💬 Ask me about - Anything
 
