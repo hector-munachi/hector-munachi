@@ -3,11 +3,11 @@
 
 
 ___
-🧐I’m currently learning - React
+🧐I’m currently learning - More Advanced React
 
-🤝I’m looking to collaborate on - NodeJs, Express, MongoDB and any stuff on Back-end.
+🤝I’m looking to collaborate on - NodeJs, Express, MongoDB and any stuff on the Back-end.
 
-💬 Ask me about - Anything
+💬 Ask me about - Anything....
 
 Follow me on![twitter](https://user-images.githubusercontent.com/58500221/87242177-4db71e00-c422-11ea-8248-6b917997f6b5.png)[@avestereo](https://www.twitter.com/avestereo)
 
