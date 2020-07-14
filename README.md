@@ -9,7 +9,7 @@ ___
 
 🤝I’m looking to collaborate on - NodeJs, Express, MongoDB and any stuff on the Back-end.
 
-💬 Ask me about - Anything....
+💬 Ask me about anything...
 
 Contact me on ![twitter](https://user-images.githubusercontent.com/58500221/87242399-39742080-c424-11ea-88ca-94ad1498456d.png)[@avestereo](https://www.twitter.com/avestereo)
 
