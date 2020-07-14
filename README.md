@@ -3,7 +3,7 @@
 
 
 ___
-👨‍💻I am a Full-Stack Dev, looking to solve real world problems and bring some value. I have a passion for learning and sharing knowledge.
+👨‍💻A Full-Stack Dev, looking to solve real world problems and bring some value. I have a passion for learning and sharing knowledge.
 
 🧐I’m currently learning - More Advanced React
 
