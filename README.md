@@ -7,7 +7,7 @@ ___
 
 🧐I’m currently learning - More Advanced React
 
-🤝I’m looking to collaborate on - NodeJs, Express, MongoDB and any stuff on the Back-end.
+🤝I’m looking to collaborate on - MongoDB, Express, React, NodeJs and any stuff on the Back-end.
 
 💬 Ask me about anything...
 
