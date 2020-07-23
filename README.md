@@ -3,11 +3,11 @@
 
 
 ___
-👨‍💻A Full-Stack Dev, looking to solve real world problems and bring some value. I have a passion for learning and sharing knowledge.
+👨‍💻A Full-Stack Developer, looking to solve real world problems and bring some value to my clients. I have a passion for learning and sharing knowledge.
 
-🧐I’m currently learning - More Advanced React
+🧐I’m currently learning - More Advanced React and AWS.
 
-🤝I’m looking to collaborate on - MongoDB, Express, React, NodeJs and any stuff on the Back-end.
+🤝I’m looking to collaborate on - Front-end and Back-end technologies.
 
 💬 Ask me about anything...
 
