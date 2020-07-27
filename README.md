@@ -6,7 +6,7 @@
 
 
 ___
-👨‍💻A Full-Stack Developer, looking to solve real world problems and bring some value to my clients. I have a passion for learning and sharing knowledge.
+👨‍💻I'm looking to solve real world problems and bring some value to my clients. I have a passion for learning and sharing knowledge.
 
 🧐I’m currently learning - More Advanced React and AWS.
 
