@@ -13,7 +13,7 @@ ___
 💬 Ask me about anything...
 
 Contact me on ![twitter](https://user-images.githubusercontent.com/58500221/87242399-39742080-c424-11ea-88ca-94ad1498456d.png)[@avestereo](https://www.twitter.com/avestereo)
-Also on ![linkedin](https://user-images.githubusercontent.com/58500221/88548235-bacbd580-d016-11ea-8e31-6d93da153911.png)[hector-munachi](https://www.linkedin.com/in/hector-munachi-852341181)
+Also on ![linkedin](https://user-images.githubusercontent.com/58500221/88548449-07171580-d017-11ea-88f7-70a990d18865.png)[hector-munachi](https://www.linkedin.com/in/hector-munachi-852341181)
 
 
 
