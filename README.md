@@ -1,6 +1,6 @@
-## Welcome👋 I am Hector,<br>
+## Welcome👋 I am Hector,<br><em>A Software Engineer</em>
 
-## <em>A Software Engineer</em>
+
 
 ![mern](https://user-images.githubusercontent.com/58500221/87241978-6b838380-c420-11ea-8ef3-34cc16d8cd5f.png)
 
