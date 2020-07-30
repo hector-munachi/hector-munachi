@@ -10,7 +10,7 @@ ___
 
 🧐I’m currently learning - More Advanced React and AWS.
 
-🤝I’m looking to collaborate on - Front-end and Back-end technologies.
+🤝I’m looking to collaborate on - Frontend and Backend technologies.
 
 💬 Ask me about anything...
 
