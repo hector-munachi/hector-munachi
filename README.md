@@ -8,9 +8,9 @@
 ___
 👨‍💻I'm looking to solve real world problems and bring some value to my clients. I have a passion for learning and sharing knowledge.
 
-🧐Currently, I am learning - More Advanced React and AWS.
+🧐Currently, I am learning - more advanced React and AWS.
 
-🤝I would like to collaborate on - Frontend and Backend technologies.
+🤝I would like to collaborate on - frontend and backend technologies.
 
 💬 Ask me about anything...
 
