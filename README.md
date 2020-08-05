@@ -1,4 +1,4 @@
-## Welcome![ezgif com-resize](https://user-images.githubusercontent.com/58500221/89442049-0a607e80-d746-11ea-95fa-15709cc2742b.gif) , I am Hector - <em>A Software Engineer</em>
+## Welcome![ezgif com-resize (1)](https://user-images.githubusercontent.com/58500221/89442353-9e324a80-d746-11ea-9e67-2cc2f3a27df9.gif), I am Hector - <em>A Software Engineer</em>
 
 
 
