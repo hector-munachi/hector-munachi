@@ -1,4 +1,4 @@
-## Welcome![wavegif_1860](https://user-images.githubusercontent.com/58500221/89441316-d59ff780-d744-11ea-9509-d90244f94fe7.gif), I am Hector - <em>A Software Engineer</em>
+## Welcome![wavegif](https://user-images.githubusercontent.com/58500221/89441543-392a2500-d745-11ea-8228-3a8d930cedb5.gif), I am Hector - <em>A Software Engineer</em>
 
 
 
