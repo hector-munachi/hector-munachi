@@ -1,4 +1,4 @@
-## Welcome![ezgif com-resize (1)](https://user-images.githubusercontent.com/58500221/89442353-9e324a80-d746-11ea-9e67-2cc2f3a27df9.gif)I am Hector - <em>A Software Engineer</em>
+## Welcome I am Hector - <em>A Software Engineer</em>
 
 
 
@@ -8,7 +8,7 @@
 ___
 👨‍💻I'm looking to solve real world problems and bring some value to my clients. I have a passion for learning and sharing knowledge.
 
-🧐Currently, I am learning - more advanced React and AWS.
+🧐Currently, working with and learning - React | Python | AWS.
 
 🤝I would like to collaborate on Front-end and Back-end technologies.
 
