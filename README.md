@@ -8,7 +8,7 @@
 ___
 👨‍💻I'm looking to solve real world problems and bring some value to my clients. I have a passion for learning and sharing knowledge.
 
-🧐Always learning, currently working with and learning - React | Python | AWS.
+🧐Always learning, currently working with these technologies - React | Python | AWS.
 
 🤝I would like to collaborate on Front-end and Back-end technologies.
 
