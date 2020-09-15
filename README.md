@@ -1,4 +1,4 @@
-## Welcome I am Hector - <em>A Software Developer</em>
+## Welcome, I am Hector - <em>A Software Developer</em>
 
 
 
