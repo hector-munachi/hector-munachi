@@ -6,9 +6,9 @@
 
 
 ___
-👨‍💻I'm looking to solve real world problems and bring some value to my clients. I have a passion for learning and sharing knowledge.
+👨‍💻<strong>I'm looking to solve real world problems and bring some value to my clients. I have a passion for learning and sharing knowledge.
 
-🧐Always learning, currently working with - <strong>React | Python | AWS<strong>.
+🧐Always learning, currently working with - <strong>React | Python | AWS.
 
 🤝I would like to collaborate on Front-end and Back-end technologies.
 
@@ -17,7 +17,7 @@ ___
 ![twitter](https://user-images.githubusercontent.com/58500221/87242399-39742080-c424-11ea-88ca-94ad1498456d.png)[@avestereo](https://www.twitter.com/avestereo)<br>
 
 ![linkedin](https://user-images.githubusercontent.com/58500221/88550585-b81eaf80-d019-11ea-9ce1-56f17f13bb2b.png)
-[hector-munachi](https://www.linkedin.com/in/hector-munachi-852341181)
+[hector-munachi](https://www.linkedin.com/in/hector-munachi-852341181)<strong>
 ___
 
 
