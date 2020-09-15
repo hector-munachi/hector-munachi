@@ -1,4 +1,4 @@
-## Welcome I am Hector - <em>A Software Engineer</em>
+## Welcome I am Hector - <em>A Software Developer</em>
 
 
 
@@ -8,7 +8,7 @@
 ___
 👨‍💻I'm looking to solve real world problems and bring some value to my clients. I have a passion for learning and sharing knowledge.
 
-🧐Currently, working with and learning - React | Python | AWS.
+🧐Always learning, currently working with and learning - React | Python | AWS.
 
 🤝I would like to collaborate on Front-end and Back-end technologies.
 
