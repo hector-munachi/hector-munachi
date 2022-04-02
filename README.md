@@ -6,9 +6,9 @@
 
 
 ___
-👨‍💻<strong>I'm looking to solve real world problems and bring some value to my clients. I have a passion for learning and sharing knowledge.
+👨‍💻<strong>I like figuring stuff out, solving problems bringing some value to my clients. I have a passion for learning and sharing knowledge.
 
-🧐Always learning, currently working with - <strong>React | Python | AWS.
+🧐Always learning, currently working with - <strong>Javscript | React | React Native | NodeJS | GraphQL | Python | AWS.
 
 🤝I would like to collaborate on Front-end and Back-end technologies.
 
