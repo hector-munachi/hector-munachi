@@ -6,7 +6,7 @@
 
 
 ___
-👨‍💻<strong>I like figuring stuff out, solving problems bringing some value to my clients. I have a passion for learning and sharing knowledge.
+👨‍💻<strong>I like figuring stuff out, solving problems and bringing some value to my clients. I have a passion for learning and sharing knowledge.
 
 🧐Always learning, currently working with - <strong>Javscript | React | React Native | NodeJS | GraphQL | Python | AWS.
 
