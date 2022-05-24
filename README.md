@@ -8,11 +8,11 @@
 ___
 👨‍💻<strong>I like figuring stuff out, solving problems and bringing some value to my clients. I have a passion for learning and sharing knowledge.
 
-🧐Always learning, currently working with - <strong>Javscript | React | React Native | NodeJS | GraphQL | Python | AWS.
+🧐Always learning, currently working with - <strong>Javscript | React | React Native | NodeJS | GraphQL | Python | Django | AWS.
 
-🤝I would like to collaborate on Front-end and Back-end technologies.
+🤝I would like to collaborate and exchange ideas....
 
-💬 Ask me about anything...
+💬 Ask me about anything....
 
 ![twitter](https://user-images.githubusercontent.com/58500221/87242399-39742080-c424-11ea-88ca-94ad1498456d.png)[@avestereo](https://www.twitter.com/avestereo)<br>
 
