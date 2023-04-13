@@ -10,9 +10,9 @@ ___
 
 🧐Technologies I am proficient in - <strong>JavaScript | TypeScript | React | React Native | NodeJS | Python | Go | MongoDB | AWS | Azure
 
-🤝I would like to collaborate and exchange ideas....
+🤝I would like to collaborate and exchange ideas.
 
-💬 Ask me about anything....
+💬 Ask me about anything.
 
 ![twitter](https://user-images.githubusercontent.com/58500221/87242399-39742080-c424-11ea-88ca-94ad1498456d.png)[@avestereo](https://www.twitter.com/avestereo)<br>
 
