@@ -8,7 +8,7 @@
 ___
 👨‍💻<strong>I like figuring stuff out, solving problems and bringing some value to my clients. I have a passion for learning and sharing knowledge.
 
-🧐Always learning, currently working with - <strong>Javscript | React | React Native | NodeJS | GraphQL | Python | Django | AWS.
+🧐Technologies I am proficient in - <strong>JavScript | TypeScript | React | React Native | NodeJS | Python | Go | MongoDB | AWS | Azure
 
 🤝I would like to collaborate and exchange ideas....
 
