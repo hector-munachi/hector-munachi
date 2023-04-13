@@ -14,7 +14,7 @@ ___
 
 💬 Ask me about anything.
 
-Let us connect on ![linkedin](https://user-images.githubusercontent.com/58500221/88550585-b81eaf80-d019-11ea-9ce1-56f17f13bb2b.png)
+Connect ![linkedin](https://user-images.githubusercontent.com/58500221/88550585-b81eaf80-d019-11ea-9ce1-56f17f13bb2b.png)
 [hector-munachi](https://www.linkedin.com/in/hector-munachi-852341181)<strong>
 ___
 
