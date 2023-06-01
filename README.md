@@ -21,11 +21,11 @@ I’m obsessed with all things software and programming. I’m driven by impact 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height='50' weight='50'/>        
 </div>        
           
-                    
-          
-          
-  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hector-munachi&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/hector-munachi)  
+
+## Lets connect
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
