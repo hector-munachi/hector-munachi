@@ -36,5 +36,5 @@ I’m excited about all things software and programming. I’m driven by impact 
   <img align="left" alt="Hector Munachi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://hectormunachi.hashnode.dev/">
- <img align="left" alt="Hector Munachi | Hashnode" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/asset/hashnode.svg" /> 
+ <img align="left" alt="Hector Munachi | Hashnode" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/asset/blog.svg" /> 
 </a>
