@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Hector
 #### I am a Software Engineer
 
-<img align="right" alt="GIF" src="https://github.com/hector-munachi/hector-munachi/assets/58500221/7c7942ff-952a-4dcd-bdb4-d7b761c838d8" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/hector-munachi/hector-munachi/assets/58500221/7c7942ff-952a-4dcd-bdb4-d7b761c838d8" width="320" height="320" />
 
 I’m obsessed with all things software and programming. I’m driven by impact and collaboration. I love excellence in work, especially when it involves software development. I’m always happy to connect with like-minded software professionals and I fit in efficiently working in a team.
 
