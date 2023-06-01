@@ -6,7 +6,9 @@ I’m obsessed with all things software and programming. I’m driven by impact 
 
 ## Languages and Tools
 <p>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' alt='JavaScript' height='35' weight='35'/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' alt='JavaScript' height='50' weight='50'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt='React' height='50' weight='50'/>
+          
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hector-munachi&show_icons=true)  
