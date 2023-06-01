@@ -8,6 +8,8 @@ I’m obsessed with all things software and programming. I’m driven by impact 
 <p>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' alt='JavaScript' height='50' weight='50'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt='React' height='50' weight='50'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
           
 </p>
 
