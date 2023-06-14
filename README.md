@@ -30,7 +30,7 @@ I’m excited about all things software and programming. I’m driven by impact 
 ## 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hector-munachi&show_icons=true&theme=dark)  
 
-![Visitor Count](https://profile-counter.glitch.me/{hector-munachi}/count.svg) 
+![](https://komarev.com/ghpvc/?username=hector-munachi&color=red)
 
 ## Lets connect
 <a href="https://twitter.com/avestereo">
