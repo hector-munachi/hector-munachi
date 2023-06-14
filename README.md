@@ -18,7 +18,8 @@ I’m excited about all things software and programming. I’m driven by impact 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height='50' weight='50'/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height='50' weight='50'/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height='50' weight='50'/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height='50' weight='50 />         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height='50' weight='50 />                                                                     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height='50' weight='50' />                                                  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height='50' weight='50' />         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height='50' weight='50'/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height='50' weight='50' />
@@ -29,7 +30,7 @@ I’m excited about all things software and programming. I’m driven by impact 
 ## 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hector-munachi&show_icons=true&theme=dark)  
 
-![Profile views](https://gpvc.arturio.dev/hector-munachi)  
+![Visitor Count](https://profile-counter.glitch.me/{hector-munachi}/count.svg) 
 
 ## Lets connect
 <a href="https://twitter.com/avestereo">
