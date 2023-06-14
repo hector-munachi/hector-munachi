@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Hector
-#### I am a Software Engineer
 
 <!-- <img align="right" alt="GIF" src="" width="400" height="400" /> -->
 
