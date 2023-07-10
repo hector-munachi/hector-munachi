@@ -34,8 +34,8 @@ I’m excited about all things software and programming. I’m driven by impact 
 
 ## Let's connect
 <a href="https://twitter.com/avestereo">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" align="left" height='21' weight='21' />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" align="left" height='20' weight='20' />
 </a>
 <a href="https://www.linkedin.com/in/hector-munachi-852341181">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="left" height='21' weight='21'  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="left" height='20' weight='20' />
 </a>
