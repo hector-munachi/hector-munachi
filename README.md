@@ -33,7 +33,7 @@ I’m excited about all things software and programming. I’m driven by impact 
 ![](https://komarev.com/ghpvc/?username=hector-munachi&color=red)
 
 ## Let's connect
-<a href="https://twitter.com/avestereo">
+<a href="https://twitter.com/hector_munachi">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" align="left" height='20' weight='20' />
 </a>
 <a href="https://www.linkedin.com/in/hector-munachi-852341181">
