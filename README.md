@@ -32,10 +32,10 @@ I’m excited about all things software and programming. I’m driven by impact 
 
 ![](https://komarev.com/ghpvc/?username=hector-munachi&color=red)
 
-## Lets connect
+## Let's connect
 <a href="https://twitter.com/avestereo">
-  <img align="left" alt="Hector Munachi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/twitter.svg" alt=”Hector Munachi | LinkedIn” width=”21px”/>
 </a>
 <a href="https://www.linkedin.com/in/hector-munachi-852341181">
-  <img align="left" alt="Hector Munachi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Hector Munachi | LinkedIn” width=”21px”/>
 </a>
