@@ -2,7 +2,7 @@
 
 <!-- <img align="right" alt="GIF" src="" width="400" height="400" /> -->
 
-I’m excited about all things software and programming. I’m driven by impact and collaboration. I love excellence in work, especially when it involves software development. I’m always happy to connect with like-minded software professionals and I fit in efficiently working in a team.
+I’m excited about all things software and programming. I’m driven by impact and collaboration. I love excellence in work, especially when it involves software development. I’m always happy to connect with like-minded software professionals and I fit in efficiently collaborating in a team.
 
 ## Languages and Tools
 <div>
