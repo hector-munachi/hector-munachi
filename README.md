@@ -36,6 +36,10 @@ I’m excited about all things software and programming. I’m driven by impact 
 <a href="https://twitter.com/hector_munachi">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" align="left" height='20' weight='20' />
 </a>
-<a href="https://www.linkedin.com/in/hector-munachi-852341181">
+<a href="https://www.linkedin.com/in/hector-munachi">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="left" height='20' weight='20' />
 </a>
+<a href="https://www.linkedin.com/in/hector-munachi">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="20" height="20" />
+</a>
+
