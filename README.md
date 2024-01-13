@@ -2,7 +2,8 @@
 
 <!-- <img align="right" alt="GIF" src="" width="400" height="400" /> -->
 
-
+I enjoy creating and hacking solutions to complex problems. I am driven by turning ideas into reality through code and bringing value to my clients.
+#IndieHacker
 
 ## Languages and Tools
 <div>
