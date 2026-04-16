@@ -22,9 +22,7 @@ I enjoy creating and hacking solutions to complex problems. I am driven by turni
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height='50' weight='50'/>         
 </div>        
         
-## 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hector-munachi&show_icons=true&theme=dark)  
-
+##
 ![](https://komarev.com/ghpvc/?username=hector-munachi&color=red)
 
 ## Let's connect
