@@ -21,7 +21,6 @@ I enjoy creating and hacking solutions to complex problems. I am driven by turni
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height='50' weight='50' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height='50' weight='50' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height='50' weight='50'/> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claude/claude-original.svg" height='50' weight='50'/>  
 </div>        
         
 ##
