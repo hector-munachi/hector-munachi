@@ -1,4 +1,4 @@
-### Hi there 👋, I am a Full Stack Engineer
+### Hi there 👋, I'm a Full Stack Engineer
 
 <!-- <img align="right" alt="GIF" src="" width="400" height="400" /> -->
 
