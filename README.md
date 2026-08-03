@@ -1,8 +1,8 @@
-### Hi there 👋, I'm a Full Stack Engineer
+### Hi, I'm Hector 👋 
+
+Full Stack Engineer
 
 <!-- <img align="right" alt="GIF" src="" width="400" height="400" /> -->
-
-I build scalable software, driven by turning ideas into reality through code and bringing value to my clients.
 
 ## Languages and Tools
 <div>
