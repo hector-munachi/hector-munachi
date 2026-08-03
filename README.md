@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Hector
+### Hi there 👋, I am a Full Stack Engineer
 
 <!-- <img align="right" alt="GIF" src="" width="400" height="400" /> -->
 
-I enjoy creating and hacking solutions to complex problems. I am driven by turning ideas into reality through code and bringing value to my clients.
+I build scalable software, driven by turning ideas into reality through code and bringing value to my clients.
 
 ## Languages and Tools
 <div>
