@@ -22,6 +22,7 @@ A Full Stack Engineer, solving complex and creating impact for my clients
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height='50' weight='50'/> 
 </div> 
 
+##
 ![](https://komarev.com/ghpvc/?username=hector-munachi&color=red)
         
 ## Let's connect
