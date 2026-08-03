@@ -1,6 +1,6 @@
 ### Hi, I'm Hector 👋 
 
-Full Stack Engineer, solving complex and creating impact for my clients
+A Full Stack Engineer, solving complex and creating impact for my clients
 
 <!-- <img align="right" alt="GIF" src="" width="400" height="400" /> -->
 
