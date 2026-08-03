@@ -2,8 +2,6 @@
 
 A Full Stack Engineer, solving complex and creating impact for my clients
 
-<!-- <img align="right" alt="GIF" src="" width="400" height="400" /> -->
-
 ## Languages and Tools
 <div>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' height='50' weight='50'/>
@@ -22,7 +20,9 @@ A Full Stack Engineer, solving complex and creating impact for my clients
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height='50' weight='50' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height='50' weight='50' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height='50' weight='50'/> 
-</div>        
+</div> 
+
+![](https://komarev.com/ghpvc/?username=hector-munachi&color=red)
         
 ## Let's connect
 <a href="https://twitter.com/hector_munachi">
@@ -34,6 +34,3 @@ A Full Stack Engineer, solving complex and creating impact for my clients
 <a href="https://hectormunachi.hashnode.dev/">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="20" height="20" />
 </a>
-
-##
-![](https://komarev.com/ghpvc/?username=hector-munachi&color=red)
