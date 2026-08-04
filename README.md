@@ -1,6 +1,6 @@
 ### Hi, I'm Hector 👋 
 
-A Full Stack Engineer, solving complex and creating impact for my clients
+A Full Stack Engineer, solving complex tasks and creating impact for my clients
 
 ## Languages and Tools
 <div>
