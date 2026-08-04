@@ -24,9 +24,6 @@ A Full Stack Engineer, solving complex tasks and creating impact for my clients
 
 ##
 ![](https://komarev.com/ghpvc/?username=hector-munachi&color=red)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=hector-munachi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
         
 ## Let's connect
 <a href="https://twitter.com/hector_munachi">
